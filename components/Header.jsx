@@ -13,6 +13,7 @@ const Header = () => {
           objectFit="contain"
           objectPosition={"left"}
           layout="fill"
+          alt="banner"
         />
       </div>
       {/* Middle div */}
