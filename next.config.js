@@ -8,5 +8,6 @@ module.exports = {
   nextConfig,
   images: {
     domains: ["links.papareact.com"],
+    unoptimized: true,
   },
 };
